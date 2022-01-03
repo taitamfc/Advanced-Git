@@ -1,2 +1,2 @@
 <?php
-echo "Feature login for user";
+echo "Feature login for user 1";
